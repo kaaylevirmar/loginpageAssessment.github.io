@@ -18,9 +18,16 @@ body{
 
 
 
-@media only screen and (min-width:390px){
+@media only screen and (min-width:576px){
     
     .login-form{
         margin: 100px 400px auto 400px;
+    }
+}
+
+@media only screen and (max-width:576px){
+    
+    .login-form{
+        margin-top: 60px;
     }
 }
