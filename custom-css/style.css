@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
-
-body{
-    font-family: 'Fjalla One', sans-serif;
-
+.login-title{
+    font-family: 'Bebas Neue', cursive;
 }
 
+body{
+    font-family: 'Raleway', sans-serif;
+}
 
 .forgot-pass{
     text-decoration: none;
