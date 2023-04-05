@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+body{
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+
+.forgot-pass{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+@media only screen and (min-width:390px){
+    
+    .login-form{
+        margin: 100px 400px auto 400px;
+    }
+}
