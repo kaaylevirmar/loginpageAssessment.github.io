@@ -26,11 +26,19 @@ img:hover{
     
 }
 
+.img-icon:hover{
+    background-color: #5bc0de;
+    color: white;
+    cursor: pointer;
+}
+
+
+
 
 @media only screen and (min-width:576px){
     
     .login-form{
-        margin: 100px 400px auto 400px;
+        margin: 70px 400px auto 400px;
     }
 }
 
@@ -38,5 +46,8 @@ img:hover{
     
     .login-form{
         margin-top: 60px;
+    }
+    span{
+        display: none;
     }
 }
